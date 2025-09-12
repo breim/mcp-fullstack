@@ -1,0 +1,3 @@
+[submodule "langchain-nextjs-boilerplate"]
+	path = langchain-nextjs-boilerplate
+	url = git@github.com:breim/langchain-nextjs-boilerplate.git
